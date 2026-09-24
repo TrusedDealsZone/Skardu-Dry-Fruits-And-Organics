@@ -1,0 +1,987 @@
+{
+  "settings": {
+    "storeName": "Skardu Dry Fruits And Organics",
+    "tagline": "Premium Dry Fruits & 100% Organic Products",
+    "phone": "+92 300 1234567",
+    "whatsapp": "+923202822332",
+    "email": "skddryfruits@gmail.com",
+    "address": "Shahrah-e-Quaid-e-Azam near BC hotel Skardu",
+    "description": "Your premier destination for natural, premium-grade Dry Fruits, mountain nuts, and 100% pure organic wild honey and salajeet across Pakistan.",
+    "currency": "PKR",
+    "currencySymbol": "Rs.",
+    "deliveryFee": 250,
+    "freeDeliveryAbove": 3000,
+    "announcement": "🎉  Delivery on orders above Rs. 3,000! Cash on Delivery (COD) available all over Pakistan.",
+    "logo": "",
+    "favicon": "",
+    "facebook": "https://www.facebook.com/share/1DFn9BwyD4/",
+    "instagram": "https://www.instagram.com/pure_salajeet_dryfruits_skardu?stkn=MXVpOHM2aW55ZmhleQ==",
+    "tiktok": "",
+    "youtube": "",
+    "heroBanner": {
+      "badge": "100% Natural Harvest",
+      "title": "Skardu Dry Fruits And Organics",
+      "subtitle": "Handpicked from the peaks of Gilgit-Baltistan and organic farms across Pakistan. Fresh, pure, and delivered to your doorstep with Cash on Delivery.",
+      "ctaText": "Explore Products",
+      "bgImage": "https://i.ibb.co/xSGmdysq/file-0000000045508211a336359b67de357d.png"
+    },
+    "updatedAt": "2026-09-23T12:04:17.778Z",
+    "heroSlides": [
+      {
+        "id": "slide-1",
+        "image": "/uploads/img-1790082496380-318614645.png",
+        "badge": "Fresh Harvest 2026",
+        "title": "Skardu  Dry Fruits & Organics",
+        "subtitle": "Premium dry fruits, pure organic honey, authentic mountain Salajeet, and natural gemstones — carefully selected and delivered to your doorstep.",
+        "ctaText": "Explore Our Website ",
+        "category": "Dry Fruits"
+      },
+      {
+        "id": "slide-2",
+        "image": "/uploads/img-1790083085493-337501379.png",
+        "badge": "FRESH • PURE • NATURAL",
+        "title": "Naturally Pure • Freshly Sourced • Truly Authentic",
+        "subtitle": "Premium handpicked dry fruits, naturally rich in taste and nutrition, carefully packed to deliver freshness and quality straight to your doorstep.",
+        "ctaText": "Shop Dry Fruits Collection →",
+        "category": "Dry Fruits"
+      },
+      {
+        "id": "slide-3",
+        "image": "/uploads/img-1790083130550-352941268.png",
+        "badge": "Pure • Natural • Authentic",
+        "title": "PURE ORGANIC GOODNESS",
+        "subtitle": "Pure organic honey and naturally sourced goodness, carefully selected to bring authentic taste and quality straight from nature to your doorstep.",
+        "ctaText": "Shop Organic Collection →",
+        "category": "Organic Products"
+      },
+      {
+        "id": "slide-4",
+        "image": "/uploads/img-1790083390277-292545906.png",
+        "badge": "Natural • Rare • Authentic",
+        "title": "NATURAL GEMSTONE COLLECTION",
+        "subtitle": "Discover beautifully selected natural gemstones, valued for their unique colors, character and timeless natural beauty.",
+        "ctaText": "Shop Gemstone Collection →",
+        "category": "Dry Fruits"
+      }
+    ],
+    "theme": "amber-gold"
+  },
+  "categories": [
+    {
+      "id": "dry-fruits",
+      "name": "Dry Fruits",
+      "icon": "🌰",
+      "description": "Discover our premium selection of carefully sourced dry fruits, chosen for their rich taste, natural goodness, and quality. From crunchy almonds and walnuts to delicious cashews, pistachios, and raisins, our collection is perfect for everyday snacking, gifting, baking, and adding a nutritious touch to your meals."
+    },
+    {
+      "id": "organic-products",
+      "name": "Organic Products",
+      "icon": "🌿",
+      "description": "Explore our collection of quality organic products, thoughtfully selected for their natural taste, purity, and authentic character. We focus on products made with care and minimal processing, bringing you wholesome choices you can enjoy with confidence every day."
+    },
+    {
+      "id": "cat-1790081576263",
+      "name": "GEM STONES",
+      "icon": "💎",
+      "description": "Discover the timeless beauty of natural gemstones, carefully selected for their captivating colors, unique patterns, and natural character. Our Gemstone collection features quality stones ideal for jewelry, personal collections, gifting, and traditional use. Each gemstone carries its own distinctive appearance, making every piece truly unique."
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-1790083703151",
+      "name": "Gemstone",
+      "category": "GEM STONES",
+      "price": 2000,
+      "originalPrice": 2400,
+      "weight": "1 ",
+      "rating": 0,
+      "reviewsCount": 0,
+      "image": "/uploads/img-1790083679333-91712717.png",
+      "badge": "Best saller",
+      "inStock": true,
+      "stockCount": 50,
+      "description": "Gelluary",
+      "weights": [
+        {
+          "label": "250g",
+          "price": 550
+        },
+        {
+          "label": "500g",
+          "price": 1050
+        },
+        {
+          "label": "1 kg",
+          "price": 2000
+        }
+      ],
+      "createdAt": "2026-09-22T13:28:23.151Z"
+    },
+    {
+      "id": "prod-1789998702508",
+      "name": "Nuts and seeds",
+      "category": "Organic Products",
+      "price": 2000,
+      "originalPrice": 2400,
+      "weight": "1 kg",
+      "rating": 5,
+      "reviewsCount": 1,
+      "image": "/uploads/img-1789998664951-437513787.png",
+      "badge": "Fresh",
+      "inStock": true,
+      "stockCount": 50,
+      "description": "100% natural, freshly packed.",
+      "weights": [
+        {
+          "label": "250g",
+          "price": 550
+        },
+        {
+          "label": "500g",
+          "price": 1050
+        },
+        {
+          "label": "1 kg",
+          "price": 2000
+        }
+      ],
+      "createdAt": "2026-09-21T13:51:42.508Z"
+    },
+    {
+      "id": "prod-1789842203242",
+      "name": "Sepentine power(Zehr mora)",
+      "category": "Organic Products",
+      "price": 300,
+      "originalPrice": 2400,
+      "weight": "100g",
+      "rating": 5,
+      "reviewsCount": 1,
+      "image": "/uploads/img-1789842173469-529771272.png",
+      "badge": "Best for health",
+      "inStock": true,
+      "stockCount": 50,
+      "description": "100% natural, freshly packed.",
+      "weights": [
+        {
+          "label": "250g",
+          "price": 550
+        },
+        {
+          "label": "500g",
+          "price": 1050
+        },
+        {
+          "label": "1 kg",
+          "price": 2000
+        },
+        {
+          "label": "300g",
+          "price": 1200
+        }
+      ],
+      "createdAt": "2026-09-19T18:23:23.242Z",
+      "updatedAt": "2026-09-22T12:56:47.973Z"
+    },
+    {
+      "id": "df-1",
+      "name": "Dried Plum",
+      "category": "Dry Fruits",
+      "price": 2000,
+      "originalPrice": 2600,
+      "weight": "1 kg",
+      "rating": 4.9,
+      "reviewsCount": 148,
+      "image": "/uploads/img-1789841854582-239936463.png",
+      "badge": "Best for increase the blood ",
+      "inStock": true,
+      "stockCount": 85,
+      "description": "Crunchy, sweet, and nutrient-dense premium American Almonds. Packed with healthy fats, fiber, protein, magnesium, and vitamin E. Perfect for daily brain boost and heart health.",
+      "weights": [
+        {
+          "label": "250g",
+          "price": 600
+        },
+        {
+          "label": "500g",
+          "price": 1150
+        },
+        {
+          "label": "1 kg",
+          "price": 2200
+        }
+      ],
+      "updatedAt": "2026-09-19T18:21:08.345Z"
+    },
+    {
+      "id": "df-2",
+      "name": "Gilgit Akhrot Giri (Walnut Kernels)",
+      "category": "Dry Fruits",
+      "price": 2500,
+      "originalPrice": 2900,
+      "weight": "1 kg",
+      "rating": 4.8,
+      "reviewsCount": 92,
+      "image": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?q=80&w=800&auto=format&fit=crop",
+      "badge": "100% Pure",
+      "inStock": true,
+      "stockCount": 60,
+      "description": "Fresh, extra-light walnut kernels freshly harvested from the valleys of Gilgit. Rich in Omega-3 fatty acids, antioxidants, and essential minerals for brain memory and heart vitality.",
+      "weights": [
+        {
+          "label": "250g",
+          "price": 680
+        },
+        {
+          "label": "500g",
+          "price": 1300
+        },
+        {
+          "label": "1 kg",
+          "price": 2500
+        }
+      ]
+    },
+    {
+      "id": "df-3",
+      "name": "Roasted Salted Pistachios (Irani Pista)",
+      "category": "Dry Fruits",
+      "price": 3200,
+      "originalPrice": 3600,
+      "weight": "1 kg",
+      "rating": 4.9,
+      "reviewsCount": 110,
+      "image": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?q=80&w=800&auto=format&fit=crop",
+      "badge": "Crispy & Fresh",
+      "inStock": true,
+      "stockCount": 45,
+      "description": "Lightly roasted and gently salted Irani pistachios with naturally opened shells. A delightful luxury snack loaded with potassium, vitamin B6, and eye-protecting lutein.",
+      "weights": [
+        {
+          "label": "250g",
+          "price": 850
+        },
+        {
+          "label": "500g",
+          "price": 1650
+        },
+        {
+          "label": "1 kg",
+          "price": 3200
+        }
+      ]
+    },
+    {
+      "id": "df-4",
+      "name": "Jumbo W320 Cashews (Kaju)",
+      "category": "Dry Fruits",
+      "price": 2800,
+      "originalPrice": 3200,
+      "weight": "1 kg",
+      "rating": 4.9,
+      "reviewsCount": 134,
+      "image": "/uploads/img-1789825958031-339976933.png",
+      "badge": "Top Grade",
+      "inStock": true,
+      "stockCount": 50,
+      "description": "Jumbo whole grade W320 cashews, exceptionally creamy, crisp, and fresh. Excellent source of iron, copper, and plant-based protein.",
+      "weights": [
+        {
+          "label": "250g",
+          "price": 750
+        },
+        {
+          "label": "500g",
+          "price": 1450
+        },
+        {
+          "label": "1 kg",
+          "price": 2800
+        }
+      ],
+      "updatedAt": "2026-09-19T13:52:45.547Z"
+    },
+    {
+      "id": "df-5",
+      "name": "Original Madinah Ajwa Dates (Khajoor)",
+      "category": "Dry Fruits",
+      "price": 2900,
+      "originalPrice": 3400,
+      "weight": "1 kg",
+      "rating": 5,
+      "reviewsCount": 220,
+      "image": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?q=80&w=800&auto=format&fit=crop",
+      "badge": "Special Blessing",
+      "inStock": true,
+      "stockCount": 75,
+      "description": "Authentic Ajwa dates directly sourced from the blessed farms of Madinah Munawwarah. Soft, dark, subtly sweet, and revered for holistic health benefits.",
+      "weights": [
+        {
+          "label": "500g",
+          "price": 1500
+        },
+        {
+          "label": "1 kg",
+          "price": 2900
+        }
+      ]
+    },
+    {
+      "id": "df-6",
+      "name": "Golden Afghani Kishmish (Raisins)",
+      "category": "Dry Fruits",
+      "price": 1400,
+      "originalPrice": 1700,
+      "weight": "1 kg",
+      "rating": 4.7,
+      "reviewsCount": 78,
+      "image": "/uploads/img-1789826025464-576222140.png",
+      "badge": "Natural Sweetness",
+      "inStock": true,
+      "stockCount": 90,
+      "description": "Long green/golden Kishmish naturally dried without harmful preservatives. Improves hemoglobin levels, helps digestive health, and boosts stamina.",
+      "weights": [
+        {
+          "label": "250g",
+          "price": 380
+        },
+        {
+          "label": "500g",
+          "price": 730
+        },
+        {
+          "label": "1 kg",
+          "price": 1400
+        }
+      ],
+      "updatedAt": "2026-09-19T13:53:47.969Z"
+    },
+    {
+      "id": "df-7",
+      "name": "Natural Dried Turkish Figs (Injeer)",
+      "category": "Dry Fruits",
+      "price": 2700,
+      "originalPrice": 3100,
+      "weight": "1 kg",
+      "rating": 4.8,
+      "reviewsCount": 88,
+      "image": "/uploads/img-1789826039354-960333728.png",
+      "badge": "High Fiber",
+      "inStock": true,
+      "stockCount": 40,
+      "description": "Plump, soft, and moist organic dried figs strung on natural cotton cords. Outstanding natural remedy for digestion, bones, and blood pressure control.",
+      "weights": [
+        {
+          "label": "250g",
+          "price": 720
+        },
+        {
+          "label": "500g",
+          "price": 1400
+        },
+        {
+          "label": "1 kg",
+          "price": 2700
+        }
+      ],
+      "updatedAt": "2026-09-19T13:54:02.337Z"
+    },
+    {
+      "id": "df-8",
+      "name": "Pure Chilgoza Giri (Pine Nuts)",
+      "category": "Dry Fruits",
+      "price": 8900,
+      "originalPrice": 9800,
+      "weight": "1 kg",
+      "rating": 5,
+      "reviewsCount": 65,
+      "image": "/uploads/img-1789826053418-645545097.png",
+      "badge": "Luxury Harvest",
+      "inStock": true,
+      "stockCount": 25,
+      "description": "The King of Dry Fruits! Freshly deshelled Chilgoza kernels from the high pine forests of Waziristan and Sulaiman mountains. Rich in pinolenic acid for appetite control and immense energy.",
+      "weights": [
+        {
+          "label": "100g",
+          "price": 950
+        },
+        {
+          "label": "250g",
+          "price": 2300
+        },
+        {
+          "label": "500g",
+          "price": 4500
+        },
+        {
+          "label": "1 kg",
+          "price": 8900
+        }
+      ],
+      "updatedAt": "2026-09-19T13:54:16.140Z"
+    },
+    {
+      "id": "op-1",
+      "name": "100% Raw Sidr (Beri) Honey",
+      "category": "Organic Products",
+      "price": 2400,
+      "originalPrice": 2800,
+      "weight": "1 kg",
+      "rating": 5,
+      "reviewsCount": 215,
+      "image": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?q=80&w=800&auto=format&fit=crop",
+      "badge": "Lab Tested Pure",
+      "inStock": true,
+      "stockCount": 70,
+      "description": "Pure, unpasteurized, unprocessed Sidr honey harvested from the wild jujube (Beri) trees of Karak and Potohar. World famous for boosting immunity, respiratory health, and physical vigor.",
+      "weights": [
+        {
+          "label": "500g",
+          "price": 1250
+        },
+        {
+          "label": "1 kg",
+          "price": 2400
+        }
+      ]
+    },
+    {
+      "id": "op-2",
+      "name": "Pure Organic Desi Ghee (Grass-Fed Butter)",
+      "category": "Organic Products",
+      "price": 3200,
+      "originalPrice": 3700,
+      "weight": "1 kg",
+      "rating": 4.9,
+      "reviewsCount": 160,
+      "image": "https://images.unsplash.com/photo-1628088062854-d1870b4553da?q=80&w=800&auto=format&fit=crop",
+      "badge": "Traditional Bilona",
+      "inStock": true,
+      "stockCount": 40,
+      "description": "Made using the traditional Vedic churned curd (Bilona) method from free-grazing cow and buffalo milk. Heavenly aroma, golden texture, rich in fat-soluble vitamins A, D, E, and K.",
+      "weights": [
+        {
+          "label": "500g",
+          "price": 1650
+        },
+        {
+          "label": "1 kg",
+          "price": 3200
+        }
+      ]
+    },
+    {
+      "id": "op-3",
+      "name": "Original Himalayan Salajeet (Gold Grade Shilajit Resin)",
+      "category": "Organic Products",
+      "price": 1950,
+      "originalPrice": 2500,
+      "weight": "20g",
+      "rating": 5,
+      "reviewsCount": 310,
+      "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?q=80&w=800&auto=format&fit=crop",
+      "badge": "Certified Organic",
+      "inStock": true,
+      "stockCount": 110,
+      "description": "Extracted from heights above 16,000 feet in Skardu, purified through the traditional sun-drying method. Contains 84+ trace minerals and 70%+ fulvic acid for stamina, anti-aging, and energy.",
+      "weights": [
+        {
+          "label": "20g",
+          "price": 1950
+        },
+        {
+          "label": "50g",
+          "price": 4200
+        }
+      ]
+    },
+    {
+      "id": "op-4",
+      "name": "Organic Superfood Chia Seeds",
+      "category": "Organic Products",
+      "price": 850,
+      "originalPrice": 1100,
+      "weight": "500g",
+      "rating": 4.8,
+      "reviewsCount": 84,
+      "image": "https://images.unsplash.com/photo-1514733670139-4d87a1941d55?q=80&w=800&auto=format&fit=crop",
+      "badge": "Weight Loss & Energy",
+      "inStock": true,
+      "stockCount": 95,
+      "description": "100% organic raw whole chia seeds. Dense with soluble dietary fiber, plant Omega-3, and antioxidants. Helps maintain healthy digestion, weight control, and sustained hydration.",
+      "weights": [
+        {
+          "label": "250g",
+          "price": 450
+        },
+        {
+          "label": "500g",
+          "price": 850
+        },
+        {
+          "label": "1 kg",
+          "price": 1600
+        }
+      ]
+    },
+    {
+      "id": "op-5",
+      "name": "Pure Organic Kashmiri Zafran (Saffron Mogra)",
+      "category": "Organic Products",
+      "price": 2600,
+      "originalPrice": 3200,
+      "weight": "2g",
+      "rating": 5,
+      "reviewsCount": 95,
+      "image": "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?q=80&w=800&auto=format&fit=crop",
+      "badge": "Grade A1 Royal",
+      "inStock": true,
+      "stockCount": 35,
+      "description": "All-red, thick stigmas of Kashmiri saffron. Unsurpassed floral aroma, vivid crimson tint, and natural mood-enhancing and skin-rejuvenating properties.",
+      "weights": [
+        {
+          "label": "1g",
+          "price": 1350
+        },
+        {
+          "label": "2g",
+          "price": 2600
+        },
+        {
+          "label": "5g",
+          "price": 6200
+        }
+      ]
+    },
+    {
+      "id": "op-6",
+      "name": "Pure Wild Acacia Flower Honey",
+      "category": "Organic Products",
+      "price": 1850,
+      "originalPrice": 2200,
+      "weight": "1 kg",
+      "rating": 4.8,
+      "reviewsCount": 67,
+      "image": "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?q=80&w=800&auto=format&fit=crop",
+      "badge": "Light & Floral",
+      "inStock": true,
+      "stockCount": 50,
+      "description": "Delicate, water-clear wild blossom honey with low glycemic index. Naturally remains liquid longer, ideal sweetener for diabetics and kids.",
+      "weights": [
+        {
+          "label": "500g",
+          "price": 980
+        },
+        {
+          "label": "1 kg",
+          "price": 1850
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "u-admin-1",
+      "name": "Store Administrator",
+      "email": "skardu@dryfruits.com",
+      "phone": "+92 300 1234567",
+      "password": "$2a$10$2kywixH3nRxJGwPPW/kzIu3WAYfL5RyCRMu1nzL5We/5DFORNtI.O",
+      "role": "admin",
+      "createdAt": "2026-09-19T13:42:46.805Z"
+    },
+    {
+      "id": "u-1789998411036",
+      "name": "liaqat shabani",
+      "email": "liaqatshabani565@gmail.com",
+      "phone": "09876543",
+      "password": "$2a$10$QsS9Lrr0GE97VoH5nHXQIeIghcCM17bGNzXW.sR7z72c.w.sBKbq2",
+      "role": "customer",
+      "createdAt": "2026-09-21T13:46:51.036Z"
+    },
+    {
+      "id": "u-1790165264004",
+      "name": "fghjkl",
+      "email": "ti@gmail.com",
+      "phone": "lkjhgf",
+      "password": "$2a$10$7IHnvmJGW8SvA9Anw3tUFOJn3kKMiaB6EPJZEVOJCXDKRI5yRcxrS",
+      "role": "customer",
+      "createdAt": "2026-09-23T12:07:44.004Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "COD-1007",
+      "userId": "u-admin-1",
+      "customer": {
+        "name": "Store Administrator",
+        "phone": "+92 300 1234567",
+        "email": "skardu@dryfruits.com",
+        "address": "Skardu View Point",
+        "city": "Skardu",
+        "notes": "Call before delivery"
+      },
+      "items": [
+        {
+          "id": "op-4",
+          "name": "Organic Superfood Chia Seeds",
+          "weight": "1 kg",
+          "price": 1600,
+          "quantity": 2,
+          "image": "https://images.unsplash.com/photo-1514733670139-4d87a1941d55?q=80&w=800&auto=format&fit=crop"
+        }
+      ],
+      "subtotal": 3200,
+      "deliveryFee": 0,
+      "total": 3200,
+      "paymentMethod": "Cash on Delivery (COD)",
+      "paymentStatus": "Pay on Delivery",
+      "status": "Delivered",
+      "createdAt": "2026-09-23T12:12:49.086Z",
+      "timeline": [
+        {
+          "status": "Pending",
+          "timestamp": "2026-09-23T12:12:49.086Z",
+          "description": "Order placed successfully. Payment mode: Cash on Delivery (COD)."
+        },
+        {
+          "status": "Delivered",
+          "timestamp": "2026-09-23T12:14:24.264Z",
+          "description": "Order status updated to Delivered by Admin."
+        }
+      ]
+    },
+    {
+      "id": "COD-1006",
+      "userId": null,
+      "customer": {
+        "name": "Tariq Mehmood",
+        "phone": "03001234567",
+        "email": "tariq@gmail.com",
+        "address": "House #42, Street 5, F-7/2",
+        "city": "Islamabad",
+        "notes": "Call before delivery please"
+      },
+      "items": [
+        {
+          "id": "prod-1790083703151",
+          "name": "Gemstone",
+          "weight": "1 kg",
+          "price": 2000,
+          "quantity": 1,
+          "image": "/uploads/img-1790083679333-91712717.png"
+        }
+      ],
+      "subtotal": 2000,
+      "deliveryFee": 0,
+      "total": 2000,
+      "paymentMethod": "Cash on Delivery (COD)",
+      "paymentStatus": "Pay on Delivery",
+      "status": "Delivered",
+      "createdAt": "2026-09-23T11:53:11.693Z",
+      "timeline": [
+        {
+          "status": "Pending",
+          "timestamp": "2026-09-23T11:53:11.693Z",
+          "description": "Order placed successfully. Payment mode: Cash on Delivery (COD)."
+        },
+        {
+          "status": "Delivered",
+          "timestamp": "2026-09-23T12:08:49.413Z",
+          "description": "Order status updated to Delivered by Admin."
+        }
+      ]
+    },
+    {
+      "id": "COD-1005",
+      "userId": null,
+      "customer": {
+        "name": "Tariq Mehmood",
+        "phone": "03001234567",
+        "email": "tariq@gmail.com",
+        "address": "House #42, Street 5, F-7/2",
+        "city": "Islamabad",
+        "notes": "Call before delivery please"
+      },
+      "items": [
+        {
+          "id": "prod-1789998702508",
+          "name": "Nuts and seeds",
+          "weight": "1 kg",
+          "price": 2000,
+          "quantity": 1,
+          "image": "/uploads/img-1789998664951-437513787.png"
+        }
+      ],
+      "subtotal": 2000,
+      "deliveryFee": 0,
+      "total": 2000,
+      "paymentMethod": "Cash on Delivery (COD)",
+      "paymentStatus": "Pay on Delivery",
+      "status": "Confirmed",
+      "createdAt": "2026-09-22T12:41:51.587Z",
+      "timeline": [
+        {
+          "status": "Pending",
+          "timestamp": "2026-09-22T12:41:51.587Z",
+          "description": "Order placed successfully. Payment mode: Cash on Delivery (COD)."
+        },
+        {
+          "status": "Confirmed",
+          "timestamp": "2026-09-22T12:50:34.656Z",
+          "description": "Order status updated to Confirmed by Admin."
+        }
+      ]
+    },
+    {
+      "id": "COD-1004",
+      "userId": "u-1789998411036",
+      "customer": {
+        "name": "liaqat shabani",
+        "phone": "09876543",
+        "email": "liaqatshabani565@gmail.com",
+        "address": "kdjfd;askldjfd;",
+        "city": "Karachi",
+        "notes": "klj;kl;'"
+      },
+      "items": [
+        {
+          "id": "df-1",
+          "name": "Dried Plum",
+          "weight": "1 kg",
+          "price": 2200,
+          "quantity": 1,
+          "image": "/uploads/img-1789841854582-239936463.png"
+        },
+        {
+          "id": "df-2",
+          "name": "Gilgit Akhrot Giri (Walnut Kernels)",
+          "weight": "1 kg",
+          "price": 2500,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?q=80&w=800&auto=format&fit=crop"
+        },
+        {
+          "id": "df-3",
+          "name": "Roasted Salted Pistachios (Irani Pista)",
+          "weight": "1 kg",
+          "price": 3200,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?q=80&w=800&auto=format&fit=crop"
+        }
+      ],
+      "subtotal": 7900,
+      "deliveryFee": 0,
+      "total": 7900,
+      "paymentMethod": "Cash on Delivery (COD)",
+      "paymentStatus": "Pay on Delivery",
+      "status": "Shipped",
+      "createdAt": "2026-09-21T13:48:36.103Z",
+      "timeline": [
+        {
+          "status": "Pending",
+          "timestamp": "2026-09-21T13:48:36.103Z",
+          "description": "Order placed successfully. Payment mode: Cash on Delivery (COD)."
+        },
+        {
+          "status": "Cancelled",
+          "timestamp": "2026-09-21T13:49:53.016Z",
+          "description": "Order status updated to Cancelled by Admin."
+        },
+        {
+          "status": "Delivered",
+          "timestamp": "2026-09-21T13:50:07.911Z",
+          "description": "Order status updated to Delivered by Admin."
+        },
+        {
+          "status": "Shipped",
+          "timestamp": "2026-09-23T12:08:58.329Z",
+          "description": "Order status updated to Shipped by Admin."
+        }
+      ]
+    },
+    {
+      "id": "COD-1003",
+      "userId": null,
+      "customer": {
+        "name": "liaqat shabani",
+        "phone": "03459714617",
+        "email": "liaqatshabani565@gmail.com",
+        "address": "6 road Islamabad",
+        "city": "Islamabad",
+        "notes": "sdfghjkjhgfds"
+      },
+      "items": [
+        {
+          "id": "prod-1789842203242",
+          "name": "Sepentine power(Zehr mora)",
+          "weight": "1 kg",
+          "price": 2000,
+          "quantity": 6,
+          "image": "/uploads/img-1789842173469-529771272.png"
+        }
+      ],
+      "subtotal": 12000,
+      "deliveryFee": 0,
+      "total": 12000,
+      "paymentMethod": "Cash on Delivery (COD)",
+      "paymentStatus": "Pay on Delivery",
+      "status": "Cancelled",
+      "createdAt": "2026-09-20T05:13:34.147Z",
+      "timeline": [
+        {
+          "status": "Pending",
+          "timestamp": "2026-09-20T05:13:34.147Z",
+          "description": "Order placed successfully. Payment mode: Cash on Delivery (COD)."
+        },
+        {
+          "status": "Confirmed",
+          "timestamp": "2026-09-20T05:16:39.184Z",
+          "description": "Order status updated to Confirmed by Admin."
+        },
+        {
+          "status": "Shipped",
+          "timestamp": "2026-09-21T12:35:19.771Z",
+          "description": "Order status updated to Shipped by Admin."
+        },
+        {
+          "status": "Confirmed",
+          "timestamp": "2026-09-21T12:35:22.384Z",
+          "description": "Order status updated to Confirmed by Admin."
+        },
+        {
+          "status": "Delivered",
+          "timestamp": "2026-09-21T13:49:57.556Z",
+          "description": "Order status updated to Delivered by Admin."
+        },
+        {
+          "status": "Cancelled",
+          "timestamp": "2026-09-23T12:09:02.661Z",
+          "description": "Order status updated to Cancelled by Admin."
+        }
+      ]
+    },
+    {
+      "id": "COD-1002",
+      "userId": "u-admin-1",
+      "customer": {
+        "name": "liaqat shabani",
+        "phone": "+92 300 1234567",
+        "email": "skardu@dryfruits.com",
+        "address": "6 road Islamabad",
+        "city": "Islamabad",
+        "notes": "yuiuyt"
+      },
+      "items": [
+        {
+          "id": "df-3",
+          "name": "Roasted Salted Pistachios (Irani Pista)",
+          "weight": "1 kg",
+          "price": 3200,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?q=80&w=800&auto=format&fit=crop"
+        }
+      ],
+      "subtotal": 3200,
+      "deliveryFee": 0,
+      "total": 3200,
+      "paymentMethod": "Cash on Delivery (COD)",
+      "paymentStatus": "Pay on Delivery",
+      "status": "Confirmed",
+      "createdAt": "2026-09-19T16:47:30.117Z",
+      "timeline": [
+        {
+          "status": "Pending",
+          "timestamp": "2026-09-19T16:47:30.117Z",
+          "description": "Order placed successfully. Payment mode: Cash on Delivery (COD)."
+        },
+        {
+          "status": "Confirmed",
+          "timestamp": "2026-09-19T18:14:43.500Z",
+          "description": "Order status updated to Confirmed by Admin."
+        }
+      ]
+    },
+    {
+      "id": "COD-1001",
+      "userId": "u-admin-1",
+      "customer": {
+        "name": "Store Administratorghjk",
+        "phone": "+92 300 1tyuiu234567",
+        "email": "admin@dryfruits.com",
+        "address": "6 road Islamabad",
+        "city": "Islamabad",
+        "notes": "fghjkjhgfdfgh"
+      },
+      "items": [
+        {
+          "id": "df-4",
+          "name": "Jumbo W320 Cashews (Kaju)",
+          "weight": "1 kg",
+          "price": 2800,
+          "quantity": 3,
+          "image": "/uploads/img-1789825958031-339976933.png"
+        }
+      ],
+      "subtotal": 8400,
+      "deliveryFee": 0,
+      "total": 8400,
+      "paymentMethod": "Cash on Delivery (COD)",
+      "paymentStatus": "Pay on Delivery",
+      "status": "Confirmed",
+      "createdAt": "2026-09-19T15:28:05.503Z",
+      "timeline": [
+        {
+          "status": "Pending",
+          "timestamp": "2026-09-19T15:28:05.503Z",
+          "description": "Order placed successfully. Payment mode: Cash on Delivery (COD)."
+        },
+        {
+          "status": "Confirmed",
+          "timestamp": "2026-09-19T15:28:33.118Z",
+          "description": "Order status updated to Confirmed by Admin."
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1790164391667-621",
+      "productId": "prod-1790083703151",
+      "customerName": "Muhammad Ali",
+      "rating": 5,
+      "comment": "MashAllah outstanding freshness and authentic mountain taste! Highly recommended.",
+      "createdAt": "2026-09-23T11:53:11.667Z"
+    },
+    {
+      "id": "rev-1790080911544-381",
+      "productId": "prod-1789998702508",
+      "customerName": "Muhammad Ali",
+      "rating": 5,
+      "comment": "MashAllah outstanding freshness and authentic mountain taste! Highly recommended.",
+      "createdAt": "2026-09-22T12:41:51.544Z"
+    },
+    {
+      "id": "rev-1790080794714-561",
+      "productId": "prod-1789998702508",
+      "customerName": "Muhammad Ali",
+      "rating": 5,
+      "comment": "MashAllah outstanding freshness and authentic mountain taste! Highly recommended.",
+      "createdAt": "2026-09-22T12:39:54.714Z"
+    },
+    {
+      "id": "rev-1790080738557-466",
+      "productId": "prod-1789998702508",
+      "customerName": "Muhammad Ali",
+      "rating": 5,
+      "comment": "MashAllah outstanding freshness and authentic mountain taste! Highly recommended.",
+      "createdAt": "2026-09-22T12:38:58.557Z"
+    },
+    {
+      "id": "rev-1790080346775-430",
+      "productId": "prod-1789998702508",
+      "customerName": "Muhammad Ali",
+      "rating": 5,
+      "comment": "MashAllah outstanding freshness and authentic mountain taste! Highly recommended.",
+      "createdAt": "2026-09-22T12:32:26.775Z"
+    }
+  ]
+}
